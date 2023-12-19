@@ -4,7 +4,7 @@ This is a car race competition analysis showing all KPIs , drivers analysis and 
 ![](close-up-fuel-level-gauge-vehicle.jpg)
 
 ## Introduction
-This project reveals important metrics in car race competition from 1950 – 2021. The dataset contains information about drivers, car constructors, Nationality, event name, date, driver’s points, position and so on. This dashboard was analyzed and built on Microsoft Excel. This project shows my ability on how to use interactive features effectively. 
+This project reveals important metrics in car race competition from 1950 – 2021. The dataset contains information about drivers, car constructors, drivers nationality, event name, date, driver’s points, position and so on. This dashboard was analyzed and built on Microsoft Excel and shows my ability on how to use interactive features effectively. 
 
 ## Problem Statement
 The analysis must generate answers to the following questions:
@@ -32,9 +32,13 @@ The following are some of the Excel skills and concept demonstrated during the p
 
 ## Data Analysis
 I checked for missing data and changed each columns to their appropriate data types.
+
 I Created pivot tables and customized the charts 
+
 I performed lots of calculations in the dataset, aggregated and presented data in a concise format.
+
 I extracted specific information from datasets
+
 I set up drop-down lists using data validation techniques to show details of each driver and constructor selected
 
 * Data Preview
@@ -42,8 +46,11 @@ I set up drop-down lists using data validation techniques to show details of eac
 
 ## Data visualization
 Selected and incorporated appropriate cliparts
+
 Chose colors that harmonize with the overall dashboard theme and maintained a consistent theme throughout the dashboard
+
 Created a user-friendly interface for interactivity
+
 Designing an organized and visually appealing layout.
 
 * Dashboard
@@ -52,3 +59,8 @@ Designing an organized and visually appealing layout.
 ## Summary
 * The number of rounds were totaled to 25400 with 853 drivers and 210 constructors, and the fastest driver ever is ‘VerVerstappen Max’
 * The total wins right from the beginning of the competition 1950 to 2021 amount to 1060
+* In driver's and constructor's analysis segment, important details about driver and constructor selected from the dropdown are shown such as their nationality, number of wins, total points, number of races and so on.
+* Top drivers with the highest points and top constructors are shown on chart to easily identify top drivers and constructors by their points
+
+## Thank you for reading.
+I am open to data roles.
