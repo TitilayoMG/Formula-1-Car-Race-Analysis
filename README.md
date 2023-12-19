@@ -54,7 +54,7 @@ Created a user-friendly interface for interactivity
 Designing an organized and visually appealing layout.
 
 * Dashboard
-![](Carracedash.PNG)
+![](cardash.PNG)
   
 ## Summary
 * The number of rounds were totaled to 25400 with 853 drivers and 210 constructors, and the fastest driver ever is ‘VerVerstappen Max’
